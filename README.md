@@ -1,1 +1,0 @@
-# HSE-Git-Lesson-OMP2024
